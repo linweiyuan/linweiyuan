@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="32" height="32" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="32" height="32" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="32" height="32" /></a>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="32" height="32" /></a>
 </p>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linweiyuan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&hide_border=true" alt="linweiyuan's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiyuan&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linweiyuan&count_private=false&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&hide_border=true" alt="linweiyuan's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiyuan&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=linweiyuan)
