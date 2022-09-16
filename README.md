@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="32" height="32" /></a>
