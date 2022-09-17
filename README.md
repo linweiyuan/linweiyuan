@@ -1,21 +1,8 @@
-### Hi there, I'm linweiyuan 👋.
-
-- 🌱 I’m currently learning Go.
-
-<!--
-**linweiyuan/linweiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linweiyuan&theme=dracula&utcOffset=8)
 
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
@@ -53,11 +40,3 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="32" height="32" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="32" height="32" /></a>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linweiyuan&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linweiyuan&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linweiyuan&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=linweiyuan&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linweiyuan&theme=dracula&utcOffset=8)
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=linweiyuan&label=Profile%20views&color=0e75b6&style=flat" /></p>
