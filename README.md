@@ -1,6 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linweiyuan&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linweiyuan&theme=dracula&exclude=html,lua,shell)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linweiyuan&theme=dracula&exclude=html,lua,shell)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=linweiyuan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linweiyuan&theme=dracula&utcOffset=8)
 
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
